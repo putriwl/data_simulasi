@@ -1,5 +1,0 @@
-streaml
-pandas
-numpy
-matplotlib
-openpyxl
